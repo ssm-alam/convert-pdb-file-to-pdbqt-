@@ -8,7 +8,6 @@ This Python script enables the conversion of multiple ligand files in PDB format
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/ssm-alam/convert-pdb-file-to-pdbqt-.git
-    cd pdb-to-pdbqt-converter
     ```
 
 2. **Install Open Babel:**
@@ -31,7 +30,7 @@ This Python script enables the conversion of multiple ligand files in PDB format
 
 6. **Run the Converter:**
     ```bash
-    python convert_pdb_to_pdbqt.py
+    python pdb2pdbqt.py
     ```
 
 7. **Input and Output Folders:**
